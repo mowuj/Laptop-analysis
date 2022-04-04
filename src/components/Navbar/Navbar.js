@@ -7,6 +7,7 @@ const Navbar = () => {
             <nav>
                 <CustomLink className="link" to="/home">Home</CustomLink>
                 <CustomLink className="link" to="/dashboard">DashBoard</CustomLink>
+                <CustomLink className="link" to="reviews">Reviews</CustomLink>
                 <CustomLink className="link" to="/blogs">Blogs</CustomLink>
             </nav>
     );
