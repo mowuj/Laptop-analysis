@@ -1,11 +1,13 @@
 import React from 'react';
+import MyAreaChart from '../MyAreaChart/MyAreaChart';
 import MyLineChart from '../MyLineChart/MyLineChart';
-
+import './Dashboard.css'
 const Dashboard = () => {
     return (
         <div className='chart'>
-            <h2>This is Dashboard</h2>
-            <MyLineChart></MyLineChart>
+            
+            <MyLineChart className="line-chart"></MyLineChart>
+            <MyAreaChart></MyAreaChart>
         </div>
     );
 };

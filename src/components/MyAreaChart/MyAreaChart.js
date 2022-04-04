@@ -1,7 +1,7 @@
 import React from 'react';
-import { Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, AreaChart, Tooltip, XAxis, YAxis } from 'recharts';
 
-const MyLineChart = () => {
+const MyAreaChart = () => {
     
         const data = [
     {
@@ -43,15 +43,16 @@ const MyLineChart = () => {
 ];
     return (
         <div>
-            <LineChart width={600} height={500} data={data}>
-    <Line type="monotone" dataKey={"sell"} stroke="#8884d8"/>
-    <Line type="monotone"  dataKey={"investment"} />
+            <AreaChart width={600} height={500} data={data}>
+    <Area type="monotone" dataKey={"sell"} stackId="1" stroke="#8884d8" fill="#8884d8"/>
+    <Area type="monotone" dataKey={"investment"} stackId="1" stroke="#82ca9d" fill="#82ca9d"/>
+    <Area type="monotone"  dataKey={"revenue"} stackId="1" stroke="#ffc658" fill="#ffc658" />
                 <XAxis dataKey="month"></XAxis>
                 <Tooltip></Tooltip>
     <YAxis></YAxis>
-  </LineChart>
+  </AreaChart>
         </div>
     );
 };
 
-export default MyLineChart;
+export default MyAreaChart;
