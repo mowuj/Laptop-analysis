@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Ahsan Habib",  
+        "rating": 4.5,
+        "review":"this laptop is very good",
+        "id":1
+    },
+    {
+        "name": "Shakil Ahmed",
+        "rating": 4.5,
+        "review": "this laptop is very good",
+        "id":2
+    },
+    {
+        "name": "Kobir",
+        "rating": 4.5,
+        "review": "this laptop is very good",
+        "id":3
+    },
+    {
+        "name": "Akter",
+        "rating": 4.5,
+        "review": "this laptop is very good",
+        "id":4
+    },
+    {
+        "name": "Masud",
+        "rating": 4.5,
+        "review": "this laptop is very good",
+        "id":5
+
+    },
+    {
+        "name": "Nashir",
+        "rating": 4.5,
+        "review": "this laptop is very good",
+        "id":6
+    }
+]

@@ -8,6 +8,7 @@ import Home from './components/Home/Home';
 import Navbar from './components/Navbar/Navbar';
 import NotFound from './components/NotFound/NotFound';
 import Reviews from './components/Reviews/Reviews';
+import SingleReview from './components/SingleReview/SingleReview';
 function App() {
   return (
     <div className="App">
