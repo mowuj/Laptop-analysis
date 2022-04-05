@@ -2,38 +2,44 @@
     {
         "name": "Ahsan Habib",  
         "rating": 4.5,
-        "review":"this laptop is very good",
-        "id":1
+        "cutomerReview":"this laptop is very good",
+        "id":1,
+        "img":"https://www.wonderwardrobes.com/wp-content/uploads/2016/01/424818-gentleman.jpg"
     },
     {
         "name": "Shakil Ahmed",
         "rating": 4.5,
-        "review": "this laptop is very good",
-        "id":2
+        "cutomerReview": "this laptop is very good",
+        "id":2,
+        "img":"https://manofmany.com/wp-content/uploads/2016/01/188751-leonardo-dicaprio.jpg"
     },
     {
         "name": "Kobir",
         "rating": 4.5,
-        "review": "this laptop is very good",
-        "id":3
+        "cutomerReview": "this laptop is very good",
+        "id":3,
+        "img":"https://cdn.images.express.co.uk/img/dynamic/130/590x/modern-gentleman-qualities-traits-manners-respectful-kind-polite-841392.jpg"
     },
     {
         "name": "Akter",
         "rating": 4.5,
-        "review": "this laptop is very good",
-        "id":4
+        "cutomerReview": "this laptop is very good",
+        "id":4,
+        "img":"https://mensopedia.com/wp-content/uploads/2020/02/Be-Presentable-to-look-like-a-gentleman-1024x576.jpg"
     },
     {
         "name": "Masud",
         "rating": 4.5,
-        "review": "this laptop is very good",
-        "id":5
+        "cutomerReview": "this laptop is very good",
+        "id":5,
+        "img":"https://cdn.thegentlemansjournal.com/wp-content/uploads/2013/12/DavidBeckham-Getty-TheGentlemansJournal-900x600-c-center.jpg"
 
     },
     {
         "name": "Nashir",
         "rating": 4.5,
-        "review": "this laptop is very good",
-        "id":6
+        "cutomerReview": "this laptop is very good",
+        "id":6,
+        "img":"https://manofmany.com/wp-content/uploads/2016/01/Joseph-Gordon-Levitt.jpg"
     }
 ]
