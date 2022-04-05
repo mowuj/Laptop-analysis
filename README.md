@@ -2,6 +2,10 @@
 
 [Laptop analysis](https://chic-douhua-327480.netlify.app/).
 
+-React Bootstrap
+-Routes
+-Custom Hooks
+-Xaous
 ## Available Scripts
 
 In the project directory, you can run:
