@@ -1,6 +1,7 @@
 # Laptop analysis
 
-[Laptop analysis](https://chic-douhua-327480.netlify.app/).
+## [Laptop analysis](https://chic-douhua-327480.netlify.app/).
+## Use in this Project
 
 * React Bootstrap
 * Routes

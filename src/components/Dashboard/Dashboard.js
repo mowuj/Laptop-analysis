@@ -1,13 +1,19 @@
 import React from 'react';
-import MyAreaChart from '../MyAreaChart/MyAreaChart';
+import MyBarChart from '../MyBarChart/MyBarChart';
 import MyLineChart from '../MyLineChart/MyLineChart';
 import './Dashboard.css'
 const Dashboard = () => {
+    
+    // console.log(month.sell)
+    // console.log(sell.month)
+
     return (
-        <div className='chart'>
+        <div className='chart '>
             
             <MyLineChart className="line-chart"></MyLineChart>
-            <MyAreaChart></MyAreaChart>
+            
+            <MyBarChart></MyBarChart>
+            
         </div>
     );
 };
