@@ -1,0 +1,13 @@
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.card-btn{
+    background-color: rosybrown;
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

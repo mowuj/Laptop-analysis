@@ -5,9 +5,8 @@ import SingleReview from '../SingleReview/SingleReview';
 
 const Reviews = () => {
     const [reviews, setReviews] = useReviews();
-    // console.log(reviews)
     return (
-        <div className='card'>
+        <div className='card-container'>
             {
                 reviews.map((review) =>(<SingleReview review={review} key={review.id}></SingleReview>))
             }

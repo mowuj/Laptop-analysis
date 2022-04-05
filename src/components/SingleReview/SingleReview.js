@@ -1,5 +1,5 @@
 import React from 'react';
-import { CardGroup, Col, Row } from 'react-bootstrap';
+import { Col, Row } from 'react-bootstrap';
 import Card from 'react-bootstrap/Card'
 import './SingleReview.css'
 const SingleReview = (props) => {
@@ -7,7 +7,8 @@ const SingleReview = (props) => {
     const { name, rating,cutomerReview,img } = review;
     
     return (
-      <Row xs={1} md={4} className="g-4">
+      <div className=''>
+        <Row xs={1} md={2} className="g-2">
   {Array.from({ length: 1 }).map((_, idx) => (
     <Col>
       <Card>
@@ -25,7 +26,8 @@ const SingleReview = (props) => {
     </Col>
   ))}
 </Row>
-    )
+    </div>)
+      
 };
 
 export default SingleReview;
