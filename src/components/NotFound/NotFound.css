@@ -1,4 +1,8 @@
 div {
     margin-top: 20px;
+    align-items: center;
     
+}
+.notFound{
+    margin-left: 28%;
 }

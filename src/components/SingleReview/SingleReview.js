@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card'
 import './SingleReview.css'
 const SingleReview = (props) => {
     const { review } = props
-    const { name, rating,cutomerReview,img } = review;
+    const { name, rating,cutomerReview,img,id } = review;
     
     return (
       <div className=''>
@@ -16,10 +16,10 @@ const SingleReview = (props) => {
         <Card.Body>
           <Card.Title>{ name}</Card.Title>
           <Card.Text>
-            {cutomerReview}
+            Review : {cutomerReview}
           </Card.Text>
           <Card.Text>
-            {rating}
+            Rating : {rating}
           </Card.Text>
         </Card.Body>
       </Card>

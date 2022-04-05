@@ -1,12 +1,12 @@
 # Laptop analysis
 
 ## [Laptop analysis](https://chic-douhua-327480.netlify.app/).
-## Use in this Project
+## Project Descriptions
 
-* React Bootstrap
-* Routes
-* Custom Hooks
-* Xaous
+* There is a home page with navigation banner and review
+* Dashboard page where render 2 charts
+* Review page has all customer reviews
+* Answer 2 question in blog page
 ## Available Scripts
 
 In the project directory, you can run:

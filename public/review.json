@@ -2,43 +2,43 @@
     {
         "name": "Ahsan Habib",  
         "rating": 4.5,
-        "cutomerReview":"this laptop is very good",
+        "cutomerReview":"HP's new Victus 16 is a good budget gaming laptop",
         "id":1,
         "img":"https://www.wonderwardrobes.com/wp-content/uploads/2016/01/424818-gentleman.jpg"
     },
     {
         "name": "Shakil Ahmed",
-        "rating": 4.5,
-        "cutomerReview": "this laptop is very good",
+        "rating": 4.7,
+        "cutomerReview": "Windows 11 brings you closer to what you love",
         "id":2,
         "img":"https://manofmany.com/wp-content/uploads/2016/01/188751-leonardo-dicaprio.jpg"
     },
     {
-        "name": "Kobir",
-        "rating": 4.5,
-        "cutomerReview": "this laptop is very good",
+        "name": "Kobir Ahmed",
+        "rating": 4.3,
+        "cutomerReview": "The HP Spectre x360 lets you know when it's time to take a break",
         "id":3,
         "img":"https://cdn.images.express.co.uk/img/dynamic/130/590x/modern-gentleman-qualities-traits-manners-respectful-kind-polite-841392.jpg"
     },
     {
-        "name": "Akter",
+        "name": "Md Akter",
         "rating": 4.5,
-        "cutomerReview": "this laptop is very good",
+        "cutomerReview": "he HP Chromebook x360 14a is a value-priced convertible ",
         "id":4,
         "img":"https://mensopedia.com/wp-content/uploads/2020/02/Be-Presentable-to-look-like-a-gentleman-1024x576.jpg"
     },
     {
-        "name": "Masud",
-        "rating": 4.5,
-        "cutomerReview": "this laptop is very good",
+        "name": "Md Masud",
+        "rating": 4.8,
+        "cutomerReview": "P's premier laptop workstation, the ZBook Fury 15 G8 ",
         "id":5,
         "img":"https://cdn.thegentlemansjournal.com/wp-content/uploads/2013/12/DavidBeckham-Getty-TheGentlemansJournal-900x600-c-center.jpg"
 
     },
     {
-        "name": "Nashir",
-        "rating": 4.5,
-        "cutomerReview": "this laptop is very good",
+        "name": "Nashir Hossein",
+        "rating": 4.4,
+        "cutomerReview": "Its performance trails that of conventional Chromebooks",
         "id":6,
         "img":"https://manofmany.com/wp-content/uploads/2016/01/Joseph-Gordon-Levitt.jpg"
     }
