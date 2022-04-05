@@ -1,6 +1,6 @@
-# 
+# Laptop analysis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Laptop analysis](https://chic-douhua-327480.netlify.app/).
 
 ## Available Scripts
 
